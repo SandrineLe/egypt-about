@@ -327,7 +327,7 @@ text-align:left;}
 
 .departements__title {line-height:1.5;
     font-family: "Prata";
-    font-size:40px;
+    font-size:32px;
     color: var(--dark-color);
     text-transform:capitalize;
   }
@@ -501,7 +501,7 @@ z-index:2;}
    }
     
     .video__content{
-        width:950px;
+        width:870px;
     height:500px;
 background-image: url("images_about/video-2-1.jpg");}
 
@@ -567,7 +567,7 @@ background-image: url("images_about/video-2-1.jpg");}
 
 .team__title {line-height:1.5;
     font-family: "Prata";
-    font-size:40px;
+    font-size:32px;
     color: var(--dark-color);
     text-transform:capitalize;
   }
